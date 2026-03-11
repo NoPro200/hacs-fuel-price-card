@@ -34,7 +34,7 @@ A custom [Home Assistant](https://www.home-assistant.io/) Lovelace card for disp
 1. Open **HACS** in your Home Assistant sidebar
 2. Go to **Frontend**
 3. Click the **⋮ menu** (top right) → **Custom repositories**
-4. Enter the repository URL: `https://github.com/YOUR_GITHUB_USERNAME/fuel-price-card`
+4. Enter the repository URL: `https://github.com/nopro200/hacs-fuel-price-card`
 5. Select category: **Lovelace**
 6. Click **Add**
 7. Search for **Fuel Price Card** in the HACS frontend store and click **Install**
