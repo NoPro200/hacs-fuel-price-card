@@ -2,6 +2,8 @@
   "name": "Fuel Price Card",
   "description": "A Lovelace card for displaying fuel prices from multiple gas stations with trend arrows and automatic sorting.",
   "render_readme": true,
+  "content_in_root": true,
+  "filename": "fuel-price-card.js",
   "domains": ["sensor"],
   "iot_class": "local_polling"
 }
