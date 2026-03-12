@@ -3,6 +3,8 @@
 
 A custom [Home Assistant](https://www.home-assistant.io/) Lovelace card for displaying fuel prices from multiple gas stations. Shows live prices with trend arrows, supports automatic cheapest-first sorting, includes a full visual UI editor, and works with any sensor that provides a numeric fuel price.
 
+The reason I created this map is because Tankerkönig does not provide prices for Ultimate Diesel or Ultimate 102, which is why the Tankerkönig map on which it is based is not possible for this purpose, and I therefore retrieve this information via web scraping. 
+
 ---
 
 ## Features
